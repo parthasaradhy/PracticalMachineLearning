@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-It is relatively inexpensive to to collect a large amount of data about
+It is relatively inexpensive to collect a large amount of data about
 personal activity. This is possible because of the personal activity
 tracking devices such as Jawbone Up, Nike FuelBand, and Fitbit These
 type of devices are part of the quantified self movement - a group of
